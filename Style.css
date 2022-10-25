@@ -24,7 +24,8 @@ h2{
     width: 100%;
 }
 .form input[type=password],
-.form input[type=email]{
+.form input[type=email],
+.form input[type=name]{
     display: block;
     border-radius: 20px;
     padding-left: 10px;
